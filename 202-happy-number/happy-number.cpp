@@ -5,7 +5,6 @@ public:
 
         while (true) {
 
-            // Find the sum of squares
             int sum = 0;
 
             while (n != 0) {
